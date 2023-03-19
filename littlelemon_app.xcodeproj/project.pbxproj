@@ -24,6 +24,7 @@
 		FEC1BB2729B50B640056DA12 /* littlelemon_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1BB2629B50B640056DA12 /* littlelemon_appTests.swift */; };
 		FEC1BB3129B50B640056DA12 /* littlelemon_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1BB3029B50B640056DA12 /* littlelemon_appUITests.swift */; };
 		FEC1BB3329B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1BB3229B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift */; };
+		FEFBCDA829C78D080026D8A0 /* CustomColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEFBCDA729C78D080026D8A0 /* CustomColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		FEC1BB2C29B50B640056DA12 /* littlelemon_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = littlelemon_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEC1BB3029B50B640056DA12 /* littlelemon_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = littlelemon_appUITests.swift; sourceTree = "<group>"; };
 		FEC1BB3229B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = littlelemon_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FEFBCDA729C78D080026D8A0 /* CustomColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				FE9DEF8629BFAB2100B8D9C3 /* MenuItem.swift */,
 				FEC1BB1B29B50B630056DA12 /* Preview Content */,
 				FE2C325C29C0E651006737FE /* ExampleDatabase.xcdatamodeld */,
+				FEFBCDA729C78D080026D8A0 /* CustomColor.swift */,
 			);
 			path = littlelemon_app;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEFBCDA829C78D080026D8A0 /* CustomColor.swift in Sources */,
 				FE9DEF7929BF8F9900B8D9C3 /* Onboarding.swift in Sources */,
 				FE9DEF7B29BF959200B8D9C3 /* Home.swift in Sources */,
 				FE9DEF8529BFAB1200B8D9C3 /* MenuList.swift in Sources */,

@@ -12,4 +12,5 @@ struct MenuItem: Decodable{
   var image: String?
   var price: String?
   var category: String?
+  var dishDescription: String?
 }
