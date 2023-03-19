@@ -25,6 +25,7 @@
 		FEC1BB3129B50B640056DA12 /* littlelemon_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1BB3029B50B640056DA12 /* littlelemon_appUITests.swift */; };
 		FEC1BB3329B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC1BB3229B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift */; };
 		FEFBCDA829C78D080026D8A0 /* CustomColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEFBCDA729C78D080026D8A0 /* CustomColor.swift */; };
+		FEFBCDAA29C7A3440026D8A0 /* WireFrameImages in Resources */ = {isa = PBXBuildFile; fileRef = FEFBCDA929C7A3440026D8A0 /* WireFrameImages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		FEC1BB3029B50B640056DA12 /* littlelemon_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = littlelemon_appUITests.swift; sourceTree = "<group>"; };
 		FEC1BB3229B50B640056DA12 /* littlelemon_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = littlelemon_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FEFBCDA729C78D080026D8A0 /* CustomColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColor.swift; sourceTree = "<group>"; };
+		FEFBCDA929C7A3440026D8A0 /* WireFrameImages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WireFrameImages; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 		FEC1BB1B29B50B630056DA12 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				FEFBCDA929C7A3440026D8A0 /* WireFrameImages */,
 				FEC1BB1929B50B630056DA12 /* Assets.xcassets */,
 				FEC1BB1C29B50B630056DA12 /* Preview Assets.xcassets */,
 			);
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEC1BB1D29B50B630056DA12 /* Preview Assets.xcassets in Resources */,
+				FEFBCDAA29C7A3440026D8A0 /* WireFrameImages in Resources */,
 				FEC1BB1A29B50B630056DA12 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
